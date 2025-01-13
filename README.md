@@ -4,10 +4,10 @@ This project involves building and analyzing a Long Short-Term Memory (LSTM) mod
 
 # Features
 
-### Data Processing: Utilized 20 years of historical Google stock price data, including preprocessing steps such as normalization and sequence creation for LSTM input.
+Data Processing: Utilized 20 years of historical Google stock price data, including preprocessing steps such as normalization and sequence creation for LSTM input.
 
-### Model Development: Designed and implemented an LSTM model using PyTorch to capture temporal dependencies in stock price movements.
+Model Development: Designed and implemented an LSTM model using PyTorch to capture temporal dependencies in stock price movements.
 
-### Evaluation: Analyzed model predictions to evaluate forecasting accuracy, identify trends, and detect anomalies.
+Evaluation: Analyzed model predictions to evaluate forecasting accuracy, identify trends, and detect anomalies.
 
-### Visualization: Presented results with Matplotlib and Seaborn for clear and effective communication of findings.
+Visualization: Presented results with Matplotlib and Seaborn for clear and effective communication of findings.
