@@ -11,3 +11,11 @@ Model Development: Designed and implemented an LSTM model using PyTorch to captu
 Evaluation: Analyzed model predictions to evaluate forecasting accuracy, identify trends, and detect anomalies.
 
 Visualization: Presented results with Matplotlib and Seaborn for clear and effective communication of findings.
+
+# Technologies Used
+
+Frameworks: PyTorch for deep learning model development
+
+Data Visualization: Matplotlib and Seaborn for visualizing results
+
+Time-Series Analysis: LSTM-based sequence modeling for stock price forecasting
